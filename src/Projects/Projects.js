@@ -1,7 +1,7 @@
 import React from 'react'
-import Bookmark from './Bookmark'
-import Homebl from './Homebl'
-import Iro from './Iro'
+import Blog from './Blog'
+import Timer from './Timer'
+import Food from './Food'
 import './Projects.css'
 
 export default function Projects() {
@@ -21,9 +21,9 @@ export default function Projects() {
 			</header>
 			<article className='projects'>
 				<div className='projects__ctn'>
-					<Bookmark />
-					<Homebl />
-					<Iro />
+					<Blog />
+					<Timer />
+					<Food />
 				</div>
 			</article>
 		</section>

@@ -18,7 +18,7 @@ export default function Contact() {
 				<h3>Move, Create, and Enjoy</h3>
 				<a
 					aria-label='GitHub'
-					href='https://github.com/themlp101'
+					href='https://github.com/Jamientomlin/'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
@@ -26,7 +26,7 @@ export default function Contact() {
 				</a>
 				<a
 					aria-label='LinkedIn'
-					href='https://www.linkedin.com/in/themlp101/'
+					href='https://www.linkedin.com/in/jamientomlin/'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
@@ -36,9 +36,9 @@ export default function Contact() {
 
 			<div className='copyright'>
 				<p>
-					Created by Me{' '}
+					Created by Jamien{' '}
 					<FaRegCopyright className='copy__icn' />{' '}
-					twentytwenty
+					twentytwentyOne
 				</p>
 			</div>
 		</section>

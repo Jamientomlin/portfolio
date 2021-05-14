@@ -29,7 +29,7 @@ export default function MyForm() {
 			<form
 				className='contact__me__form'
 				onSubmit={submitForm}
-				action='https://formspree.io/myynebgp'
+				action='https://formspree.io/f/mpzkavev'
 				method='POST'
 			>
 				<h1>

@@ -19,12 +19,12 @@ export default function AboutMe() {
 			</h2>
 			<img
 				className='my-portrait'
-				src={require('../images/my-portrait.jpg')}
+				src={require('../images/me.jpg')}
 				alt='Me sitting and smiling'
 			/>
 			<article className='about__me'>
 				<div className='about__me__text__ctn'>
-					<h3>Hi! I'm Matt, nice to meet you!</h3>
+					<h3>Hi! I'm Jamien, nice to meet you!</h3>
 					<p>
 						I am a software developer with full-stack
 						experience, including JavaScript and PERN
@@ -50,12 +50,12 @@ export default function AboutMe() {
 						include thoughtful interactions.
 					</p>
 					<h5>What I design:</h5>
-					<p>UI, UX, web/mobile apps, logos</p>
+					<p>UI, web/mobile apps</p>
 					<h5>Tools: </h5>
 					<ul className='tools'>
-						<li>Figma</li>
-						<li>Pen & Paper</li>
-						<li>Sketch</li>
+						<li>React.js</li>
+						<li>HTML</li>
+						<li>CSS</li>
 					</ul>
 				</div>
 				<div className='col'>
@@ -76,7 +76,6 @@ export default function AboutMe() {
 						<li>Terminal</li>
 						<li>Chrome Dev Tools</li>
 						<li>Vercel CLI</li>
-						<li>Enzyme</li>
 					</ul>
 				</div>
 				<div className='col last'>
@@ -88,7 +87,7 @@ export default function AboutMe() {
 						is paramount.
 					</p>
 					<h5>Languages I speak: </h5>
-					<p>JavaScript, Node.js, PostgreSQL</p>
+					<p>JavaScript, Node.js, PostgreSQL, Knex</p>
 					<h5>Tools:</h5>
 					<ul className='tools'>
 						<li>Mocha</li>
@@ -96,6 +95,7 @@ export default function AboutMe() {
 						<li>CORS</li>
 						<li>Helmet</li>
 						<li>Heroku</li>
+						<li>DBBeaver</li>
 					</ul>
 				</div>
 			</section>
